@@ -1,8 +1,8 @@
 (syscall) @function
-(integer) @constant
+(integer) @number
 (pointer) @constant
 (value) @label
 (string) @string
 (comment) @comment
-(errorName) @error
-(errorDescription) @error
+(errorName) @function
+(errorDescription) @function

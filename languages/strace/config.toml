@@ -1,4 +1,4 @@
 name = "Strace"
 grammar = "strace"
 path_suffixes = ["strace"]
-# first_line_pattern = "^#!.*\\bfish\\b"
+first_line_pattern = "^execve\\("
