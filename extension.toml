@@ -1,0 +1,12 @@
+name = "Strace"
+id = "strace"
+version = "0.0.2"
+grammar = "strace"
+schema_version = 1
+authors = ["Bedis Nbiba"]
+description = "Strace log file support for Zed"
+repository = "https://github.com/sigmasd/zed-strace"
+
+[grammars.strace]
+repository = "https://github.com/sigmaSd/tree-sitter-strace"
+commit = "0dc85e4cfcd0cc4b33f855ddb782d81d1297bf6e"
