@@ -1,6 +1,6 @@
 name = "Strace"
 id = "strace"
-version = "0.0.2"
+version = "0.0.3"
 grammar = "strace"
 schema_version = 1
 authors = ["Bedis Nbiba"]
